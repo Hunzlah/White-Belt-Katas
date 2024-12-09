@@ -1,0 +1,15 @@
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\bin\Debug\net6.0\White Belt Katas.exe
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\bin\Debug\net6.0\White Belt Katas.deps.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\bin\Debug\net6.0\White Belt Katas.runtimeconfig.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\bin\Debug\net6.0\White Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\bin\Debug\net6.0\White Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.AssemblyInfo.cs
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\refint\White Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\White Belt Katas.genruntimeconfig.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\White Belt Katas\White Belt Katas\obj\Debug\net6.0\ref\White Belt Katas.dll
